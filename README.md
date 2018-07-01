@@ -72,3 +72,8 @@ drwxr-xr-x+ 35 mengyao  staff  1120 Jun 30 15:38 ..
 admins-MacBook-Pro:myrepo mengyao$ sudo vim /etc/hosts
 Password:
 to update the local repo with changes made on line, at the repo folder, do 'git pull origin master'
+
+
+now change from Rstudio 
+wei shen me mei you ne 
+
