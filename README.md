@@ -77,3 +77,4 @@ to update the local repo with changes made on line, at the repo folder, do 'git 
 now change from Rstudio 
 wei shen me mei you ne 
 
+one more time try from local computer
